@@ -4,11 +4,12 @@
 
 ## Fondations
 
-* [Introduction](fondations/untitled.md)
+* [Introduction](fondations/untitled/README.md)
+  * [Devenir un développeur web](fondations/untitled/devenir-un-developpeur-web.md)
 
 ## Entretenu par
 
-* [Will Binns](https://willbinns.org/)
+* [Will Binns](https://about.willbinns.org/)
 
 ## Permis
 
